@@ -1,4 +1,4 @@
-# ElectronicaAutomotriz
+# Curso de Electronica Automotriz
 Curso de Electrónica Automotriz
 
 La Especialidad en Electrónica Automotriz incluye un programa de especialización completo y práctico, profesores altamente capacitados donde aprenderás a elaborar tus propios equipos de diagnóstico entre otras cosas.
