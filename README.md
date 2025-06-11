@@ -35,4 +35,4 @@ Los módulos son:
 > [!NOTE]
 > Clase 1: Sábado 07-Junio-2025
 
-[Clase 1]( )
+[Clase 1](https://github.com/luisreylara/ElectronicaAutomotriz/tree/main/Clase01 )
