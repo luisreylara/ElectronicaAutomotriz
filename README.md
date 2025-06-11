@@ -17,7 +17,7 @@ Enseñanza: 80% práctica y 20% teórica
 
 
 
-Los módulos son:
+## Los módulos son:
 
 * ✅Electrónica Básica
 * ✅Electrónica de Potencia
