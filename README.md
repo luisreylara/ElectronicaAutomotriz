@@ -9,9 +9,13 @@ Enseñanza: 80% práctica y 20% teórica
 
 🏢Plantel Querétaro
 
-![Te](https://github.com/luisreylara/ElectronicaAutomotriz/blob/main/5226608b-dcf2-46f3-8687-18dcd3844b03.jpg)
+![Temario 1-2](https://github.com/luisreylara/ElectronicaAutomotriz/blob/main/8a828439-598a-411a-893a-472d1457f610.jpg)
 
-![Temario 2-2](https://github.com/luisreylara/ElectronicaAutomotriz/blob/main/8a828439-598a-411a-893a-472d1457f610.jpg)
+---
+
+![Temario 2-2](https://github.com/luisreylara/ElectronicaAutomotriz/blob/main/5226608b-dcf2-46f3-8687-18dcd3844b03.jpg)
+
+
 
 Los módulos son:
 
@@ -27,3 +31,8 @@ Los módulos son:
 * Wolfgang Goethe 4, Magisterial, 76010 Santiago de Querétaro, Qro.
 
  > https://maps.app.goo.gl/BdXRqCvTAyYYADum7
+
+> [!NOTE]
+> Clase 1: Sábado 07-Junio-2025
+
+[Clase 1]( )
