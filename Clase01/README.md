@@ -1,4 +1,12 @@
 
+## Temas de curso de electrónica básica
+* Resistencias
+* Diodos
+* Varistor
+* Capacitores
+* Bobinas
+* Transistores
+
 ## Clase 1
 
 
