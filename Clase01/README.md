@@ -1,4 +1,4 @@
-
+## Fecha 07 Junio 2025, Sucursal Querétaro.
 ## Temas de curso de electrónica básica
 * Resistencias
 * Diodos
@@ -47,4 +47,10 @@
 * Fuentes Conmutada: Switcheo, prende y apaga.
 * Definición de Varistor: Un varistor, también conocido como resistencia dependiente del voltaje (VDR) o Resistor Dependiente de Voltaje, es un componente electrónico que protege los circuitos contra sobretensiones. Su resistencia disminuye a medida que el voltaje aplicado aumenta, permitiendo que la corriente pase a través del componente cuando el voltaje es excesivo. 
 * Capacitor electrolítico = Su función no es protección, almacena y estabiliza.
+* Triangulo de diagnostico: Información - Equipo - Conocimiento. Todo involucra inversión.
+* Diodo = Protege de picos de corriente.
+* Objetivo de la Fuente: Protección y Regulación.
+* Voltaje = Tensión - Volts.
+* Corriente - Intensidad - Amperes.
+* Bateria: 12volts y 600 A
 * 
